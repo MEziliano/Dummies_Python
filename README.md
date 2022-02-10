@@ -1,9 +1,3 @@
-# 
-
-It's funny because github makes a different for Jupyter Notebook as programing leanguage!
-And that it's a shame... Try to put all these files in .py file and translate everything to english. 
-## Summary 
-
 <!-- ![descrição da imagem](url da imagem gerado pelo serviço de hospedagem ou GitHub)-->
  <h1 align ="center"> Dummies_Python - 101 </h1>
  
@@ -16,24 +10,16 @@ And that it's a shame... Try to put all these files in .py file and translate ev
 <!--<details><summary>Projeto</summary> -->
 <p>
  
-* [Descrição do Projeto](#Description) <br>
-O seguinte projeto visa a elaboração de modelos de Machine Learning para auxiliar a tomada de decisões e o Plenejamento estratégico. Seguindo os conceitos predeterminados pelo CRISP-DM, o projeto consiste nas etapas de Tratamento de dados, Análise, Modelagem e Planejamento estratégico. Os arquivos do projeto são: EDA, Modelos e app. Ao final do arquivo EDA, deve constar um relatório parcial das anotações feitas com os dados até então. Com base nessas anotações, EDA servirá de início para o modelo que também irá servir como start para o app, que irá englobar todas as informações relevantes no framework do Streamlit.
-* [Status of the project](#status-do-Projeto)
-**Em desenvolvimento**
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
- Utilizar modelos de Machine Learning para prever algumas características do Sistema Único de Saúde. Entre elas o número de einternações e etc.  
-* [Acesso ao Projeto](#acesso-ao-projeto)
-A aplicação web desenvolvida no Streamlit. A principal intenção dessa aplicação é facilitar a visuaização de gráficos e o desemprenho dos modelos de Inteligência Artificial. 
+* Description <br>
+
+ * 01 
+ * 02
+ * 03 
  
 
-```
-streamlit run app.py 
-```
- 
- 
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
- Descrever as bibliotecas utilizadas e as EDA
- 
+
+
+
 <h2> Utilizados nesse projeto! </h2>
 <div>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" target="_blank">
@@ -41,7 +27,6 @@ streamlit run app.py
 <!--  
 <img src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" target="_blank"></a>
 <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" target="_blank"></a>
-
 <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" target="_blank">
 <img src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" target="_blank">
@@ -49,8 +34,7 @@ streamlit run app.py
 <a href="https://docs.streamlit.io/library/get-started/main-concepts"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" target="_blank"></a> -->
 </div>
  
-* [Conclusão](#conclusão)
-Por tanto, com base no modelos avaliados, seguindo as métricas para modelos de regressão, pode se concluir que os melhores modelos foram o de random Forest e Extra Tree.  
+  
   
 </p>
 </details>
